@@ -17,7 +17,7 @@ public class emailApp {
         Email em1 = new Email();
         
         em1.setMailboxCapacity(500);
-        em1.changePassword("mfux8sn2");
+        em1.changePassword("");
         em1.getInfo();
     }
     
